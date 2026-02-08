@@ -1,5 +1,1 @@
-- Chat with Eggbert for general conversation and assistance.
-- Code with Eggbert for writing, debugging, and optimizing code.
-- Search the web for information and answers.
-- Analyze images and provide descriptions or insights.
-- Manage email and GitHub tasks through integration.
+- Chat with Eggbert for general conversation and assistance.\n- Code with Eggbert for writing, debugging, and optimizing code.\n- Search with Eggbert for information and answers.\n- Vision with Eggbert for image analysis and description.\n- GitHub with Eggbert for repository management and collaboration.
