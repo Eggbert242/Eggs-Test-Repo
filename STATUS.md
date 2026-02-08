@@ -1,5 +1,5 @@
-- Chat: Eggbert can engage in natural conversations and answer questions.
-- Coding: It can assist with writing and debugging code across multiple programming languages.
-- Search: Eggbert can search the web for up-to-date information and resources.
-- Vision: It can analyze images and provide descriptions or insights.
-- Email: It can help draft, send, and manage email communications.
+- Chat with Eggbert for general conversation and assistance.
+- Code with Eggbert for writing, debugging, and optimizing code.
+- Search the web for information and answers.
+- Analyze images and provide descriptions or insights.
+- Manage email and GitHub tasks through integration.
